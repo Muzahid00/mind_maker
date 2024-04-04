@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mind_maker/static/css/main.f660101b.css",
+    "main.js": "/mind_maker/static/js/main.35d0fb04.js",
+    "static/js/453.72eb449b.chunk.js": "/mind_maker/static/js/453.72eb449b.chunk.js",
+    "index.html": "/mind_maker/index.html",
+    "main.f660101b.css.map": "/mind_maker/static/css/main.f660101b.css.map",
+    "main.35d0fb04.js.map": "/mind_maker/static/js/main.35d0fb04.js.map",
+    "453.72eb449b.chunk.js.map": "/mind_maker/static/js/453.72eb449b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f660101b.css",
+    "static/js/main.35d0fb04.js"
+  ]
+}
